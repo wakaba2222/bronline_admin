@@ -1,0 +1,42 @@
+@charset 'utf-8';
+
+.errorBox {
+	width: 100%;
+	padding: 20px 0;
+	text-align: center;
+}
+
+ol.paging {
+	/zoom: 1;
+	overflow: hidden;
+	margin: 20px 0;
+	padding: 0;
+	background: #fff;
+}
+
+ol.paging li {
+	float: left;
+	margin: 0 5px 5px 0;
+}
+
+ol.paging li span,
+ol.paging li a {
+	float: left;
+	padding: 5px 12px;
+	background: #e1ebfa;
+	border: 1px solid #339;
+	color: #000;
+}
+
+ol.paging li span {
+	background: #fff;
+}
+
+ol.paging li a:hover {
+	background: #ccf;
+	border-color: #000;
+}
+
+.disp_none {
+	display: none;
+}
