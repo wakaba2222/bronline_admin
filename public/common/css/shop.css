@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+body.brshop #header_shop,
+body.brshop .shop_menu {
+    background: #72738A;
+}

@@ -1,0 +1,49 @@
+/* sidebar edit 03-03*/
+.col_right{
+	position: relative;
+	top: 0;
+}
+.col_right_detail {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    position: fixed;
+    padding-top:0;
+    padding-bottom: 25px;
+}
+.col_right_detail.col_right_padding{
+	padding-top: 136px;
+}
+.padding-box{
+	height: 136px;
+}
+.col_left{
+	padding-bottom: 25px;
+}
+@media screen and ( max-width:812px ) and ( orientation:landscape ) {
+	.col_right_detail {
+	    margin-top: inherit;
+	    margin-bottom: inherit;
+	    position: inherit;
+	}
+	.padding-box{
+		height: 0;
+	}
+	.col_right .adbnr_side{
+		margin-bottom: 	25px;
+	}
+}
+@media screen and ( max-width:767px ) {
+	.col_right_detail {
+	    margin-top: inherit;
+	    margin-bottom: inherit;
+	    position: inherit;
+	    padding-bottom: 0;
+	}
+	.col_left{
+		padding-bottom: 0px;
+	}
+	.padding-box{
+		height: 0;
+	}
+
+}

@@ -1,0 +1,1065 @@
+@charset "utf-8";
+
+/*==========================================================
+	MALL
+==========================================================*/
+
+/* B.R.SHOP */
+body.brshop #header_shop,
+body.brshop .shop_menu {
+    background: #72738A;
+}
+body.brshop #header_shop h2 img {
+    margin: 27px 0 28px;
+    height: 25px;
+    width: 157px;
+}
+body.brshop .head_01,
+body.brshop .filter,
+body.brshop .sort,
+body.brshop .introduction,
+body.brshop .list_item.style_snap,
+body.brshop .col_right.blog,
+body.brshop .col_right.blog .calendar,
+body.brshop .col_right.blog .archive,
+body.brshop .col_left.blog .tit_blog_detail,
+body.brshop .name_area {
+	border-top: 3px solid #72738A;
+}
+
+/* nano・universe */
+body.nanouniverse #header_shop,
+body.nanouniverse .shop_menu {
+    background: #868687;
+}
+body.nanouniverse #header_shop h2 img {
+    margin: 17px 0 23px;
+    height: 40px;
+    width: 153px;
+}
+body.nanouniverse .head_01,
+body.nanouniverse .filter,
+body.nanouniverse .sort,
+body.nanouniverse .introduction,
+body.nanouniverse .list_item.style_snap,
+body.nanouniverse .col_right.blog,
+body.nanouniverse .col_right.blog .calendar,
+body.nanouniverse .col_right.blog .archive,
+body.nanouniverse .col_left.blog .tit_blog_detail,
+body.nanouniverse .name_area {
+	border-top: 3px solid #868687;
+}
+
+/* PELLE MORBIDA */
+body.pellemorbida #header_shop,
+body.pellemorbida .shop_menu {
+    background: #202945;
+}
+body.pellemorbida #header_shop h2 img {
+    margin: 15px 0 20px;
+    height: 45px;
+    width: 114px;
+}
+body.pellemorbida .head_01,
+body.pellemorbida .filter,
+body.pellemorbida .sort,
+body.pellemorbida .introduction,
+body.pellemorbida .list_item.style_snap,
+body.pellemorbida .col_right.blog,
+body.pellemorbida .col_right.blog .calendar,
+body.pellemorbida .col_right.blog .archive,
+body.pellemorbida .col_left.blog .tit_blog_detail,
+body.pellemorbida .name_area {
+	border-top: 3px solid #202945;
+}
+
+/* FORZA STYLE SHOP */
+body.forzastyleshop #header_shop,
+body.forzastyleshop .shop_menu {
+    background: #000;
+}
+body.forzastyleshop #header_shop h2 img {
+    margin: 26px 0 29px;
+    height: 25px;
+    width: 280px;
+}
+body.forzastyleshop .head_01,
+body.forzastyleshop .filter,
+body.forzastyleshop .sort,
+body.forzastyleshop .introduction,
+body.forzastyleshop .list_item.style_snap,
+body.forzastyleshop .col_right.blog,
+body.forzastyleshop .col_right.blog .calendar,
+body.forzastyleshop .col_right.blog .archive,
+body.forzastyleshop .col_left.blog .tit_blog_detail,
+body.forzastyleshop .name_area {
+	border-top: 3px solid #000;
+}
+
+/* ASTILE house */
+body.astilehouse #header_shop,
+body.astilehouse .shop_menu {
+    background: #000;
+}
+body.astilehouse #header_shop h2 img {
+    margin: 22px 0 23px;
+    height: 35px;
+    width: 123px;
+}
+body.astilehouse .head_01,
+body.astilehouse .filter,
+body.astilehouse .sort,
+body.astilehouse .introduction,
+body.astilehouse .list_item.style_snap,
+body.astilehouse .col_right.blog,
+body.astilehouse .col_right.blog .calendar,
+body.astilehouse .col_right.blog .archive,
+body.astilehouse .col_left.blog .tit_blog_detail,
+body.astilehouse .name_area {
+	border-top: 3px solid #000;
+}
+
+/* guji */
+body.guji #header_shop,
+body.guji .shop_menu {
+    background: #f4433b;
+}
+body.guji #header_shop h2 img {
+    margin: 17px 0 20px;
+    height: 43px;
+    width: 90px;
+}
+body.guji .head_01,
+body.guji .filter,
+body.guji .sort,
+body.guji .introduction,
+body.guji .list_item.style_snap,
+body.guji .col_right.blog,
+body.guji .col_right.blog .calendar,
+body.guji .col_right.blog .archive,
+body.guji .col_left.blog .tit_blog_detail,
+body.guji .name_area {
+	border-top: 3px solid #f4433b;
+}
+
+/* ring */
+body.ring #header_shop,
+body.ring .shop_menu {
+    background: #FF0093;
+}
+body.ring #header_shop h2 img {
+    margin: 19px 0 16px;
+    height: 45px;
+    width: 83px;
+}
+body.ring .head_01,
+body.ring .filter,
+body.ring .sort,
+body.ring .introduction,
+body.ring .list_item.style_snap,
+body.ring .col_right.blog,
+body.ring .col_right.blog .calendar,
+body.ring .col_right.blog .archive,
+body.ring .col_left.blog .tit_blog_detail,
+body.ring .name_area {
+	border-top: 3px solid #FF0093;
+}
+
+/* MAIDEN COMPANY the STORE */
+body.thestorebymaidens #header_shop,
+body.thestorebymaidens .shop_menu {
+    background: #000000;
+}
+body.thestorebymaidens #header_shop h2 img {
+    margin: 21px 0 23px;
+    height: 36px;
+    width: 207px;
+}
+body.thestorebymaidens .head_01,
+body.thestorebymaidens .filter,
+body.thestorebymaidens .sort,
+body.thestorebymaidens .introduction,
+body.thestorebymaidens .list_item.style_snap,
+body.thestorebymaidens .col_right.blog,
+body.thestorebymaidens .col_right.blog .calendar,
+body.thestorebymaidens .col_right.blog .archive,
+body.thestorebymaidens .col_left.blog .tit_blog_detail,
+body.thestorebymaidens .name_area {
+	border-top: 3px solid #000000;
+}
+
+/* SUGAWARA LTD. */
+body.sugawaraltd #header_shop,
+body.sugawaraltd .shop_menu {
+    background: #006029;
+}
+body.sugawaraltd #header_shop h2 img {
+    margin: 14px 0;
+    height: 52px;
+    width: 159px;
+}
+body.sugawaraltd .head_01,
+body.sugawaraltd .filter,
+body.sugawaraltd .sort,
+body.sugawaraltd .introduction,
+body.sugawaraltd .list_item.style_snap,
+body.sugawaraltd .col_right.blog,
+body.sugawaraltd .col_right.blog .calendar,
+body.sugawaraltd .col_right.blog .archive,
+body.sugawaraltd .col_left.blog .tit_blog_detail,
+body.sugawaraltd .name_area {
+	border-top: 3px solid #006029;
+}
+
+/* Lanificio B */
+body.lanificiob #header_shop,
+body.lanificiob .shop_menu {
+    background: #000;
+}
+body.lanificiob #header_shop h2 img {
+    margin: 10px 0;
+    height: 60px;
+    width: 59px;
+}
+body.lanificiob .head_01,
+body.lanificiob .filter,
+body.lanificiob .sort,
+body.lanificiob .introduction,
+body.lanificiob .list_item.style_snap,
+body.lanificiob .col_right.blog,
+body.lanificiob .col_right.blog .calendar,
+body.lanificiob .col_right.blog .archive,
+body.lanificiob .col_left.blog .tit_blog_detail,
+body.lanificiob .name_area {
+	border-top: 3px solid #000;
+}
+
+/* ESKAPE */
+body.eskape #header_shop,
+body.eskape .shop_menu {
+    background: #ACAC9D;
+}
+body.eskape #header_shop h2 img {
+    margin: 24px 0 26px;
+    height: 30px;
+    width: 113px;
+}
+body.eskape .head_01,
+body.eskape .filter,
+body.eskape .sort,
+body.eskape .introduction,
+body.eskape .list_item.style_snap,
+body.eskape .col_right.blog,
+body.eskape .col_right.blog .calendar,
+body.eskape .col_right.blog .archive,
+body.eskape .col_left.blog .tit_blog_detail,
+body.eskape .name_area {
+	border-top: 3px solid #ACAC9D;
+}
+
+/* CHOSEN ONE */
+body.chosenone #header_shop,
+body.chosenone .shop_menu {
+    background: #C8AA82;
+}
+body.chosenone #header_shop h2 img {
+    margin: 20px 0 25px;
+    height: 35px;
+    width: 277px;
+}
+body.chosenone .head_01,
+body.chosenone .filter,
+body.chosenone .sort,
+body.chosenone .introduction,
+body.chosenone .list_item.style_snap,
+body.chosenone .col_right.blog,
+body.chosenone .col_right.blog .calendar,
+body.chosenone .col_right.blog .archive,
+body.chosenone .col_left.blog .tit_blog_detail,
+body.chosenone .name_area {
+	border-top: 3px solid #C8AA82;
+}
+
+/* YOUFIRST */
+body.youfirst #header_shop,
+body.youfirst .shop_menu {
+    background: #F0E4CE;
+}
+body.youfirst #header_shop h2 img {
+    margin: 17px 0 18px;
+    height: 45px;
+    width: 132px;
+}
+body.youfirst .head_01,
+body.youfirst .filter,
+body.youfirst .sort,
+body.youfirst .introduction,
+body.youfirst .list_item.style_snap,
+body.youfirst .col_right.blog,
+body.youfirst .col_right.blog .calendar,
+body.youfirst .col_right.blog .archive,
+body.youfirst .col_left.blog .tit_blog_detail,
+body.youfirst .name_area {
+	border-top: 3px solid #F0E4CE;
+}
+body.youfirst #header_shop .toggle_shopmenu .icon-arrow_down:before {
+    color: #000;
+}
+
+/* altoediritto */
+body.altoediritto #header_shop,
+body.altoediritto .shop_menu {
+    background: #000000;
+}
+body.altoediritto #header_shop h2 img {
+    margin: 25px 0 30px;
+    height: 25px;
+    width: 182px;
+}
+body.altoediritto .head_01,
+body.altoediritto .filter,
+body.altoediritto .sort,
+body.altoediritto .introduction,
+body.altoediritto .list_item.style_snap,
+body.altoediritto .col_right.blog,
+body.altoediritto .col_right.blog .calendar,
+body.altoediritto .col_right.blog .archive,
+body.altoediritto .col_left.blog .tit_blog_detail,
+body.altoediritto .name_area {
+	border-top: 3px solid #000000;
+}
+
+/* lanzzo popup */
+body.lanzzo #header_shop,
+body.lanzzo .shop_menu {
+    background: #f9c50d;
+}
+body.lanzzo #header_shop h2 img {
+    margin: 8px 0 12px;
+    height: 60px;
+    width: 90px;
+}
+body.lanzzo .head_01,
+body.lanzzo .filter,
+body.lanzzo .sort,
+body.lanzzo .introduction,
+body.lanzzo .list_item.style_snap,
+body.lanzzo .col_right.blog,
+body.lanzzo .col_right.blog .calendar,
+body.lanzzo .col_right.blog .archive,
+body.lanzzo .col_left.blog .tit_blog_detail,
+body.lanzzo .name_area {
+	border-top: 3px solid #f9c50d;
+}
+body.lanzzo #header_shop .label_popup {
+    display: block;
+}
+
+/* CLONY CLOTHING */
+body.colonyclothing #header_shop,
+body.colonyclothing .shop_menu {
+    background: #bfaf86;
+}
+body.colonyclothing #header_shop h2 img {
+    margin: 15px 0 19px;
+    height: 46px;
+    width: 139px;
+}
+body.colonyclothing .head_01,
+body.colonyclothing .filter,
+body.colonyclothing .sort,
+body.colonyclothing .introduction,
+body.colonyclothing .list_item.style_snap,
+body.colonyclothing .col_right.blog,
+body.colonyclothing .col_right.blog .calendar,
+body.colonyclothing .col_right.blog .archive,
+body.colonyclothing .col_left.blog .tit_blog_detail,
+body.colonyclothing .name_area {
+	border-top: 3px solid #bfaf86;
+}
+
+/* dormeuil popup */
+body.dormeuil #header_shop,
+body.dormeuil .shop_menu {
+    background: #244841;
+}
+body.dormeuil #header_shop h2 img {
+    margin: 14px 0 16px;
+    height: 50px;
+    width: 75px;
+}
+body.dormeuil .head_01,
+body.dormeuil .filter,
+body.dormeuil .sort,
+body.dormeuil .introduction,
+body.dormeuil .list_item.style_snap,
+body.dormeuil .col_right.blog,
+body.dormeuil .col_right.blog .calendar,
+body.dormeuil .col_right.blog .archive,
+body.dormeuil .col_left.blog .tit_blog_detail,
+body.dormeuil .name_area {
+	border-top: 3px solid #244841;
+}
+body.dormeuil #header_shop .label_popup {
+    display: block;
+}
+
+/* special store */
+body.specialstore #header_shop,
+body.specialstore .shop_menu,
+body.specialstore2 #header_shop,
+body.specialstore2 .shop_menu,
+body.specialstore3 #header_shop,
+body.specialstore3 .shop_menu,
+body.specialstore4 #header_shop,
+body.specialstore4 .shop_menu {
+    background: #000031;
+}
+body.specialstore #header_shop h2 img,
+body.specialstore2 #header_shop h2 img,
+body.specialstore3 #header_shop h2 img,
+body.specialstore4 #header_shop h2 img {
+    margin: 27px 0 28px;
+    height: 25px;
+    width: 275px;
+}
+body.specialstore .head_01,
+body.specialstore .filter,
+body.specialstore .sort,
+body.specialstore .introduction,
+body.specialstore .list_item.style_snap,
+body.specialstore .col_right.blog,
+body.specialstore .col_right.blog .calendar,
+body.specialstore .col_right.blog .archive,
+body.specialstore .col_left.blog .tit_blog_detail,
+body.specialstore .name_area {
+	border-top: 3px solid #000031;
+}
+body.specialstore2 .head_01,
+body.specialstore2 .filter,
+body.specialstore2 .sort,
+body.specialstore2 .introduction,
+body.specialstore2 .list_item.style_snap,
+body.specialstore2 .col_right.blog,
+body.specialstore2 .col_right.blog .calendar,
+body.specialstore2 .col_right.blog .archive,
+body.specialstore2 .col_left.blog .tit_blog_detail,
+body.specialstore2 .name_area {
+	border-top: 3px solid #000031;
+}
+body.specialstore3 .head_01,
+body.specialstore3 .filter,
+body.specialstore3 .sort,
+body.specialstore3 .introduction,
+body.specialstore3 .list_item.style_snap,
+body.specialstore3 .col_right.blog,
+body.specialstore3 .col_right.blog .calendar,
+body.specialstore3 .col_right.blog .archive,
+body.specialstore3 .col_left.blog .tit_blog_detail,
+body.specialstore3 .name_area {
+	border-top: 3px solid #000031;
+}
+body.specialstore4 .head_01,
+body.specialstore4 .filter,
+body.specialstore4 .sort,
+body.specialstore4 .introduction,
+body.specialstore4 .list_item.style_snap,
+body.specialstore4 .col_right.blog,
+body.specialstore4 .col_right.blog .calendar,
+body.specialstore4 .col_right.blog .archive,
+body.specialstore4 .col_left.blog .tit_blog_detail,
+body.specialstore4 .name_area {
+	border-top: 3px solid #000031;
+}
+
+/* biglietta */
+body.biglietta #header_shop,
+body.biglietta .shop_menu {
+    background: #0b0b0f;
+}
+body.biglietta #header_shop h2 img {
+	margin: 23px 0 17px;
+    height: 40px;
+    width: 141px;
+}
+body.biglietta .head_01,
+body.biglietta .filter,
+body.biglietta .sort,
+body.biglietta .introduction,
+body.biglietta .list_item.style_snap,
+body.biglietta .col_right.blog,
+body.biglietta .col_right.blog .calendar,
+body.biglietta .col_right.blog .archive,
+body.biglietta .col_left.blog .tit_blog_detail,
+body.biglietta .name_area {
+	border-top: 3px solid #1F297E;
+}
+
+/* damiani */
+body.damiani #header_shop,
+body.damiani .shop_menu {
+    background: #391800;
+}
+body.damiani #header_shop h2 img {
+    margin: 20px 0;
+    height: 40px;
+    width: 136px;
+}
+body.damiani .head_01,
+body.damiani .filter,
+body.damiani .sort,
+body.damiani .introduction,
+body.damiani .list_item.style_snap,
+body.damiani .col_right.blog,
+body.damiani .col_right.blog .calendar,
+body.damiani .col_right.blog .archive,
+body.damiani .col_left.blog .tit_blog_detail,
+body.damiani .name_area {
+	border-top: 3px solid #391800;
+}
+body.damiani #header_shop .label_popup {
+    display: block;
+}
+
+/* isetanmens */
+body.isetanmens #header_shop,
+body.isetanmens .shop_menu {
+    background: #000;
+}
+body.isetanmens #header_shop h2 img {
+    margin: 29px 0 31px;
+    height: 20px;
+    width: 192px;
+}
+body.isetanmens .head_01,
+body.isetanmens .filter,
+body.isetanmens .sort,
+body.isetanmens .introduction,
+body.isetanmens .list_item.style_snap,
+body.isetanmens .col_right.blog,
+body.isetanmens .col_right.blog .calendar,
+body.isetanmens .col_right.blog .archive,
+body.isetanmens .col_left.blog .tit_blog_detail,
+body.isetanmens .name_area {
+	border-top: 3px solid #000;
+}
+
+/* moorerginza */
+body.moorerginza #header_shop,
+body.moorerginza .shop_menu {
+    background: #1E0908;
+}
+body.moorerginza #header_shop h2 img {
+    margin: 17px 0 18px;
+    height: 45px;
+    width: 121px;
+}
+body.moorerginza .head_01,
+body.moorerginza .filter,
+body.moorerginza .sort,
+body.moorerginza .introduction,
+body.moorerginza .list_item.style_snap,
+body.moorerginza .col_right.blog,
+body.moorerginza .col_right.blog .calendar,
+body.moorerginza .col_right.blog .archive,
+body.moorerginza .col_left.blog .tit_blog_detail,
+body.moorerginza .name_area {
+	border-top: 3px solid #1E0908;
+}
+
+/* 1piu1uguale3 */
+body.store_1piu1uguale3 #header_shop,
+body.store_1piu1uguale3 .shop_menu {
+    background: #0e0000;
+}
+body.store_1piu1uguale3 #header_shop h2 img {
+    margin: 17px 0 18px;
+    height: 45px;
+    width: 121px;
+}
+body.store_1piu1uguale3 .head_01,
+body.store_1piu1uguale3 .filter,
+body.store_1piu1uguale3 .sort,
+body.store_1piu1uguale3 .introduction,
+body.store_1piu1uguale3 .list_item.style_snap,
+body.store_1piu1uguale3 .col_right.blog,
+body.store_1piu1uguale3 .col_right.blog .calendar,
+body.store_1piu1uguale3 .col_right.blog .archive,
+body.store_1piu1uguale3 .col_left.blog .tit_blog_detail,
+body.store_1piu1uguale3 .name_area {
+	border-top: 3px solid #0e0000;
+}
+
+/* nounstore */
+body.nounstore #header_shop,
+body.nounstore .shop_menu {
+    background: #0f4c81;
+}
+body.nounstore #header_shop h2 img {
+    margin: 15px 0 14px;
+    height: 51px;
+    width: 50px;
+}
+body.nounstore .head_01,
+body.nounstore .filter,
+body.nounstore .sort,
+body.nounstore .introduction,
+body.nounstore .list_item.style_snap,
+body.nounstore .col_right.blog,
+body.nounstore .col_right.blog .calendar,
+body.nounstore .col_right.blog .archive,
+body.nounstore .col_left.blog .tit_blog_detail,
+body.nounstore .name_area {
+	border-top: 3px solid #0f4c81;
+}
+
+/* dieffekinloch */
+body.dieffekinloch #header_shop,
+body.dieffekinloch .shop_menu {
+    background: #002fc9;
+}
+body.dieffekinloch #header_shop h2 img {
+    margin: 20px 0 21px;
+    height: 39px;
+    width: 190px;
+}
+body.dieffekinloch .head_01,
+body.dieffekinloch .filter,
+body.dieffekinloch .sort,
+body.dieffekinloch .introduction,
+body.dieffekinloch .list_item.style_snap,
+body.dieffekinloch .col_right.blog,
+body.dieffekinloch .col_right.blog .calendar,
+body.dieffekinloch .col_right.blog .archive,
+body.dieffekinloch .col_left.blog .tit_blog_detail,
+body.dieffekinloch .name_area {
+	border-top: 3px solid #002fc9;
+}
+
+/* AOURE */
+body.aoure #header_shop,
+body.aoure .shop_menu {
+    background: #000000;
+}
+body.aoure #header_shop h2 img {
+    margin: 28px 0 30px;
+    height: 22px;
+    width: 127px;
+}
+body.aoure .head_01,
+body.aoure .filter,
+body.aoure .sort,
+body.aoure .introduction,
+body.aoure .list_item.style_snap,
+body.aoure .col_right.blog,
+body.aoure .col_right.blog .calendar,
+body.aoure .col_right.blog .archive,
+body.aoure .col_left.blog .tit_blog_detail,
+body.aoure .name_area {
+	border-top: 3px solid #000000;
+}
+
+/* STOOLS */
+body.stools #header_shop,
+body.stools .shop_menu {
+    background: #000000;
+}
+body.stools #header_shop h2 img {
+    margin: 27px 0 30px;
+    height: 22px;
+    width: 140px;
+}
+body.stools .head_01,
+body.stools .filter,
+body.stools .sort,
+body.stools .introduction,
+body.stools .list_item.style_snap,
+body.stools .col_right.blog,
+body.stools .col_right.blog .calendar,
+body.stools .col_right.blog .archive,
+body.stools .col_left.blog .tit_blog_detail,
+body.stools .name_area {
+	border-top: 3px solid #000000;
+}
+
+/* replay */
+body.replay #header_shop,
+body.replay .shop_menu {
+    background: #D7000F;
+}
+body.replay #header_shop h2 img {
+    margin: 27px 0 30px;
+    height: 23px;
+    width: 117px;
+}
+body.replay .head_01,
+body.replay .filter,
+body.replay .sort,
+body.replay .introduction,
+body.replay .list_item.style_snap,
+body.replay .col_right.blog,
+body.replay .col_right.blog .calendar,
+body.replay .col_right.blog .archive,
+body.replay .col_left.blog .tit_blog_detail,
+body.replay .name_area {
+	border-top: 3px solid #D7000F;
+}
+
+
+/* ESSENZA PULSANTE */
+body.essenza #header_shop,
+body.essenza .shop_menu {
+    background: #eee1ce;
+}
+body.essenza #header_shop h2 img {
+    margin: 17px 0 18px;
+    height: 45px;
+    width: 135px;
+}
+body.essenza .head_01,
+body.essenza .filter,
+body.essenza .sort,
+body.essenza .introduction,
+body.essenza .list_item.style_snap,
+body.essenza .col_right.blog,
+body.essenza .col_right.blog .calendar,
+body.essenza .col_right.blog .archive,
+body.essenza .col_left.blog .tit_blog_detail,
+body.essenza .name_area {
+	border-top: 3px solid #eee1ce;
+}
+
+/* gentedimare */
+body.gentedimare #header_shop,
+body.gentedimare .shop_menu {
+    background: #002d56;
+}
+body.gentedimare #header_shop h2 img {
+    margin: 14px 0;
+    height: 54px;
+    width: 159px;
+}
+body.gentedimare .head_01,
+body.gentedimare .filter,
+body.gentedimare .sort,
+body.gentedimare .introduction,
+body.gentedimare .list_item.style_snap,
+body.gentedimare .col_right.blog,
+body.gentedimare .col_right.blog .calendar,
+body.gentedimare .col_right.blog .archive,
+body.gentedimare .col_left.blog .tit_blog_detail,
+body.gentedimare .name_area {
+	border-top: 3px solid #002d56;
+}
+
+
+@media screen and ( max-width:812px ) {
+	body.brshop #header_shop h2 img {
+	    margin: 20px 0;
+	    height: 20px;
+	    width: 125px;
+	}
+	body.nanouniverse #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 30px;
+	    width: 115px;
+	}
+	body.pellemorbida #header_shop h2 img {
+	    margin: 7px 0 13px;
+		height: 40px;
+		width: 101px;
+	}
+	body.forzastyleshop #header_shop h2 img {
+	    margin: 18px 0 22px;
+	    height: 20px;
+		width: 224px;
+	}
+	body.astilehouse #header_shop h2 img {
+	    margin: 15px 0;
+	    height: 30px;
+		width: 105px;
+	}
+	body.guji #header_shop h2 img {
+	    margin: 13px 0 14px;
+	    height: 33px;
+		width: 69px;
+	}
+	body.ring #header_shop h2 img {
+	    margin: 15px 0 10px;
+	    height: 35px;
+		width: 64px;
+	}
+	body.thestorebymaidens #header_shop h2 img {
+	    margin: 15px 0 17px;
+	    height: 28px;
+	    width: 161px;
+	}
+	body.sugawaraltd #header_shop h2 img {
+	    margin: 10px 0;
+	    height: 40px;
+		width: 122px;
+	}
+	body.lanificiob #header_shop h2 img {
+	    margin: 7px 0;
+	    height: 46px;
+		width: 45px;
+	}
+	body.eskape #header_shop h2 img {
+	    margin: 16px 0 19px;
+	    height: 25px;
+	    width: 94px;
+	}
+	body.chosenone #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 30px;
+	    width: 237px;
+	}
+	body.youfirst #header_shop h2 img {
+		margin: 15px 0;
+	    height: 30px;
+	    width: 88px;
+	}
+	body.altoediritto #header_shop h2 img {
+	    margin: 18px 0 22px;
+	    height: 20px;
+	    width: 146px;
+	}
+	body.lanzzo #header_shop h2 img {
+	    margin: 6px 0 9px;
+	    height: 45px;
+	    width: 68px;
+	}
+	body.colonyclothing #header_shop h2 img {
+	    margin: 11px 0 13px;
+	    height: 36px;
+	    width: 109px;
+	}
+	body.dormeuil #header_shop h2 img {
+	    margin: 9px 0 11px;
+	    height: 40px;
+	    width: 60px;
+	}
+	body.specialstore #header_shop h2 img,
+	body.specialstore2 #header_shop h2 img,
+	body.specialstore3 #header_shop h2 img,
+	body.specialstore4 #header_shop h2 img {
+	    margin: 19px 0 21px;
+	    height: 20px;
+	    width: 215px;
+	}
+	body.biglietta #header_shop h2 img {
+	    margin: 17px 0 13px;
+	    height: 30px;
+	    width: 105px;
+	}
+	body.damiani #header_shop h2 img {
+	    margin: 14px 0;
+	    height: 32px;
+	    width: 109px;
+	}
+	body.isetanmens #header_shop h2 img {
+	    margin: 20px 0 23px;
+	    height: 17px;
+	    width: 163px;
+	}
+	body.moorerginza #header_shop h2 img {
+	    margin: 13px 0 12px;
+	    height: 35px;
+	    width: 94px;
+	}
+	body.store_1piu1uguale3 #header_shop h2 img {
+	    margin: 12px 0 13px;
+	    height: 35px;
+	    width: 90px;
+	}
+	body.nounstore #header_shop h2 img {
+	    margin: 11px 0 10px;
+	    height: 34px;
+	    width: 26px;
+	}
+	body.dieffekinloch #header_shop h2 img {
+	    margin: 16px 0 17px;
+	    height: 27px;
+	    width: 130px;
+	}
+	body.aoure #header_shop h2 img {
+	    margin: 20px 0 22px;
+	    height: 18px;
+	    width: 104px;
+	}
+	body.stools #header_shop h2 img {
+	    margin: 20px 0 22px;
+	    height: 18px;
+	    width: 114px;
+	}
+	body.replay #header_shop h2 img {
+	    margin: 21px 0 22px;
+	    height: 18px;
+	    width: 92px;
+	}
+	body.essenza #header_shop h2 img {
+	    margin: 21px 0 22px;
+	    height: 18px;
+	    width: 92px;
+	}
+	body.gentedimare #header_shop h2 img {
+	    margin: 10px 0;
+	    height: 41px;
+		width: 122px;
+	}
+}
+@media screen and ( max-width:767px ), screen and ( max-width:812px ) and ( orientation:landscape ) {
+	body.brshop #header_shop h2 img {
+	    margin: 19px 0;
+	    height: 17px;
+	    width: 107px;
+	}
+	body.nanouniverse #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 25px;
+	    width: 96px;
+	}
+	body.pellemorbida #header_shop h2 img {
+	    margin: 8px 0 12px;
+		height: 35px;
+		width: 88px;
+	}
+	body.forzastyleshop #header_shop h2 img {
+	    margin: 18px 0 20px;
+	    height: 17px;
+		width: 191px;
+	}
+	body.astilehouse #header_shop h2 img {
+	    margin: 15px 0;
+	    height: 25px;
+		width: 88px;
+	}
+	body.guji #header_shop h2 img {
+	    margin: 13px 0 14px;
+	    height: 28px;
+		width: 58px;
+	}
+	body.ring #header_shop h2 img {
+	    margin: 15px 0 10px;
+	    height: 30px;
+		width: 55px;
+	}
+	body.thestorebymaidens #header_shop h2 img {
+	    margin: 13px 0 14px;
+	    height: 28px;
+	    width: 161px;
+	}
+	body.sugawaraltd #header_shop h2 img {
+	    margin: 11px 0;
+	    height: 33px;
+		width: 101px;
+	}
+	body.lanificiob #header_shop h2 img {
+	    margin: 5px 0;
+	    height: 40px;
+		width: 39px;
+	}
+	body.eskape #header_shop h2 img {
+	    margin: 16px 0 19px;
+	    height: 20px;
+	    width: 75px;
+	}
+	body.chosenone #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 25px;
+	    width: 198px;
+	}
+	body.youfirst #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 25px;
+	    width: 73px;
+	}
+	body.altoediritto #header_shop h2 img {
+	    margin: 19px 0 21px;
+	    height: 15px;
+	    width: 109px;
+	}
+	body.lanzzo #header_shop h2 img {
+	    margin: 7px 0 8px;
+	    height: 40px;
+	    width: 60px;
+	}
+	body.colonyclothing #header_shop h2 img {
+	    margin: 10px 0 11px;
+	    height: 34px;
+	    width: 103px;
+	}
+	body.dormeuil #header_shop h2 img {
+	    margin: 10px 0 11px;
+	    height: 34px;
+	    width: 50px;
+	}
+	body.specialstore #header_shop h2 img,
+	body.specialstore2 #header_shop h2 img,
+	body.specialstore3 #header_shop h2 img,
+	body.specialstore4 #header_shop h2 img {
+	    margin: 20px 0 20px;
+	    height: 15px;
+	    width: 165px;
+	}
+	body.biglietta #header_shop h2 img {
+	    margin: 16px 0 14px;
+	    height: 25px;
+	    width: 88px;
+	}
+	body.damiani #header_shop h2 img {
+	    margin: 14px 0 15px;
+	    height: 26px;
+	    width: 89px;
+	}
+	body.isetanmens #header_shop h2 img {
+	    margin: 20px 0 22px;
+	    height: 13px;
+	    width: 125px;
+	}
+	body.moorerginza #header_shop h2 img {
+	    margin: 13px 0 12px;
+	    height: 30px;
+	    width: 81px;
+	}
+	body.store_1piu1uguale3 #header_shop h2 img {
+	    margin: 12px 0 13px;
+	    height: 30px;
+	    width: 77px;
+	}
+	body.nounstore #header_shop h2 img {
+	    margin: 11px 0 10px;
+	    height: 35px;
+	    width: 25px;
+	}
+	body.dieffekinloch #header_shop h2 img {
+	    margin: 14px 0 16px;
+	    height: 25px;
+	    width: 100px;
+	}
+	body.aoure #header_shop h2 img {
+	    margin: 18px 0 21px;
+	    height: 16px;
+	    width: 93px;
+	}
+	body.stools #header_shop h2 img {
+	    margin: 19px 0 21px;
+	    height: 15px;
+	    width: 95px;
+	}
+	body.replay #header_shop h2 img {
+	    margin: 18px 0 21px;
+	    height: 16px;
+	    width: 82px;
+	}
+	body.essenza #header_shop h2 img {
+	    margin: 18px 0 21px;
+	    height: 16px;
+	    width: 82px;
+	}
+	body.gentedimare #header_shop h2 img {
+	    margin: 11px 0;
+	    height: 33px;
+		width: 101px;
+	}
+}
