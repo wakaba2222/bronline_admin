@@ -1,0 +1,1 @@
+<!--<a href="" target="blank" class="hovernone block"><img src="/common/images/bnr/bnr_side_item.jpg" alt=""></a>-->

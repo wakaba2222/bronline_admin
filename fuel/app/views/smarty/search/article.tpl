@@ -1,0 +1,8 @@
+<!--{%include file='smarty/common/include/head.tpl'%}-->
+<!--{%include file='smarty/common/include/adbnr_big.tpl'%}-->
+<!--{%include file='smarty/common/include/header.tpl'%}-->
+<!--{%include file='smarty/common/include/attention.tpl'%}-->
+<!--{%include file='smarty/common/include/search_result_article.tpl'%}-->
+<!--{%include file='smarty/common/include/pickup.tpl'%}-->
+<!--{%include file='smarty/common/include/fbnr.tpl'%}-->
+<!--{%include file='smarty/common/include/footer.tpl'%}-->

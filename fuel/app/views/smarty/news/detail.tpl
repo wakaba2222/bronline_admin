@@ -1,0 +1,7 @@
+<!--{%include file='smarty/common/include/head.tpl'%}-->
+<!--{%include file='smarty/common/include/header.tpl'%}-->
+<!--{%include file='smarty/common/include/news_detail.tpl'%}-->
+<!--{%include file='smarty/common/include/viewed.tpl'%}-->
+<!--{%include file='smarty/common/include/pickup.tpl'%}-->
+<!--{%include file='smarty/common/include/fbnr.tpl'%}-->
+<!--{%include file='smarty/common/include/footer.tpl'%}-->
